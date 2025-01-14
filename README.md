@@ -1,7 +1,7 @@
 # marketing_reseaux_sociaux
 Résolution algorithmique d'un problème de marketing de réseaux sociaux - Introduction à l'algorithmique (IFT2125).
 
-Utilisation d'un algorithme glouton afin de trouver un ensemble d'influenceurs qui couvre tous les auditeurs. Le fichier "instance.txt" est un exemple d'input.
+Utilisation d'un algorithme glouton afin de trouver le plus petit ensemble d'influenceurs qui couvre tous les auditeurs. Le fichier "instance.txt" est un exemple d'input.
 
 ### Discussion
 
